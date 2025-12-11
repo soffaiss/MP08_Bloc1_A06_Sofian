@@ -32,17 +32,17 @@ class _DobleMeitatScreenState extends State<DobleMeitatScreen> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
-                // Botó Meitat
+       
                 ElevatedButton(
                   onPressed: () {
                     valor /= 2;
-                    setState(() {});  // Eliminat el control de l'estil, menys eficient
+                    setState(() {}); 
                   },
                   child: Text('Meitat'),
                 ),
                 SizedBox(width: 15),
 
-                // Botó Inicialitzar
+          
                 ElevatedButton(
                   onPressed: () {
                     valor = 1.0;
@@ -52,7 +52,7 @@ class _DobleMeitatScreenState extends State<DobleMeitatScreen> {
                 ),
                 SizedBox(width: 15),
 
-                // Botó Doble
+     
                 ElevatedButton(
                   onPressed: () {
                     valor *= 2;
@@ -68,3 +68,4 @@ class _DobleMeitatScreenState extends State<DobleMeitatScreen> {
     );
   }
 }
+
