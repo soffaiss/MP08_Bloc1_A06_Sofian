@@ -1,1 +1,3 @@
-# MP08_Bloc1_A06_Sofian
+# myapp2
+
+Projecte en blanc
