@@ -1,0 +1,10 @@
+^C:\__JG\83_FLUTTER\MYAPP2\WINDOWS\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/__JG/83_flutter/myapp2/windows -BC:/__JG/83_flutter/myapp2/build/windows --check-stamp-file C:/__JG/83_flutter/myapp2/build/windows/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
