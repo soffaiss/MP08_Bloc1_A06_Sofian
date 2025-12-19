@@ -1,0 +1,10 @@
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/icudtl.dat
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/flutter_windows.dll
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/__JG/83_flutter/myapp2/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
